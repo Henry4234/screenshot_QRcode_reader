@@ -9,9 +9,9 @@
 我有利用 `pyinstaller`包裝成 `.exe`，但由於 `opencv`套件過於龐大，超過github上傳檔案大小限制，所以無法上傳。
 後續會跟大家說明如何自行包裝成`.exe`
 ## 使用方法
-### 一、直接執行[screenshot.py](docks/screenshot.py)
+### 一、直接執行[screenshot.py](./screenshot.py)
 1. 確認函式庫是否包含上述三個非內建函式庫。
-2. 確認後直接執行[screenshot.py](docks/screenshot.py)
+2. 確認後直接執行[screenshot.py](./screenshot.py)
 
 ### 二、包裝成 `.exe`格式
 
